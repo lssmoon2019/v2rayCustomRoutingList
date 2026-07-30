@@ -1,5 +1,12 @@
 [
-  {
+    {
+    "remarks": "我的DIRECT",
+    "outboundTag": "direct",
+    "domain": [
+      "domain:alistgo.com"
+    ]
+    },  
+    {
     "remarks": "Google cn",
     "outboundTag": "proxy",
     "domain": [
