@@ -1,10 +1,11 @@
 [
     {
-    "remarks": "我的DIRECT呀",
+    "remarks": "是我的DIRECT",
     "outboundTag": "direct",
     "domain": [
       "domain:alistgo.com",
       "domain:lssyey.com",
+      "domain:example0199.com",
       "domain:example0199.com"
     ]
     },  
