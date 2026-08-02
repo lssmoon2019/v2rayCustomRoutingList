@@ -1,12 +1,28 @@
 [
     {
-    "remarks": "是我的DIRECT",
+    "remarks": "阻止广告REJECT",
+    "outboundTag": "block",
+    "domain": [   
+      "geosite:category-ads-all"
+    ]
+    }, 
+    {
+    "remarks": "直接访问DIRECT",
     "outboundTag": "direct",
     "domain": [
       "domain:alistgo.com",
       "domain:lssyey.com",
       "domain:example0199.com",
       "domain:example01998.com"
+    ]
+    }, 
+    {
+    "remarks": "代理访问PROXY",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:dmm",
+      "domain:example0199000.com",
+      "domain:example0199800.com"
     ]
     },  
     {
