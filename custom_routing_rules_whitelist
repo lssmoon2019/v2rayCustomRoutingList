@@ -14,7 +14,6 @@
     "remarks": "代理访问PROXY",
     "outboundTag": "proxy",
     "domain": [
-      "geosite:steam",
       "domain:example0199000.com",
       "domain:example0199800.com"
     ]
