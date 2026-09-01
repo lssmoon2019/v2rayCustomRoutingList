@@ -1,5 +1,12 @@
 [
-    {
+{
+    "remarks": "阻止访问BLOCK",
+    "outboundTag": "block",
+    "domain": [
+      "full:czbtybb.mof.gov.cn" 
+    ]
+    },     
+{
     "remarks": "直接访问DIRECT",
     "outboundTag": "direct",
     "domain": [
