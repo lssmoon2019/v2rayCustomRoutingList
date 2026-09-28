@@ -1,39 +1,27 @@
 [
 {
-    "remarks": "阻止访问BLOCK",
+    "remarks": "阻止访问REJECT",
     "outboundTag": "block",
     "domain": [
       "full:czbtybb.mof.gov.cn" 
     ]
     },     
 {
-    "remarks": "直接访问DIRECT",
+    "remarks": "始终直连DIRECT",
     "outboundTag": "direct",
     "domain": [
       "domain:alistgo.com",
       "domain:lssyey.com",
       "domain:99kami.com",
       "domain:bingdiancn.com",
-      "domain:example01998.com",
-      "domain:example01999.com",
-      "domain:example02000.com",
-      "domain:example02001.com",
-      "domain:example02002.com",
-      "domain:example02003.com",
-      "domain:example02004.com",
-      "domain:example02005.com",
-      "domain:example02006.com",
-      "domain:example02007.com",
-      "domain:example09999.com",
       "geosite:tencent"
     ]
     }, 
     {
-    "remarks": "代理访问PROXY",
+    "remarks": "始终代理PROXY",
     "outboundTag": "proxy",
     "domain": [
-      "domain:sifangclub.com",
-      "domain:example0199800.com"
+      "domain:sifangclub.com"      
     ]
     },  
     {
