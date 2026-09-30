@@ -3,7 +3,8 @@
     "remarks": "日本节点分流",
     "outboundTag": "[优选]日本-东京-H2-17",
     "domain": [
-      "geosite:dmm" 
+      "geosite:dmm",
+      "domain:fanza.jp"
     ]
     },
 {
