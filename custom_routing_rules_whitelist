@@ -4,8 +4,8 @@
     "outboundTag": "[优选]日本-东京-H2-17",
     "domain": [
       "geosite:dmm",
-      "domain:blxr5es.com",
-      "domain:fanza.jp"
+      "domain:blxr5es.com",    //用于javdb视频预览
+      "domain:fanza.jp"    //dmm跳转
     ]
     },
 {
