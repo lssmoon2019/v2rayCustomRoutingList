@@ -4,7 +4,7 @@
     "outboundTag": "[优选]日本-东京-H2-17",
     "domain": [
       "geosite:dmm",
-      "geosite:javdb",
+      "domian:jdbstatic.com",
       "domain:fanza.jp"
     ]
     },
