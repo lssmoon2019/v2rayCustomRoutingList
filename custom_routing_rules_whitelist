@@ -6,7 +6,7 @@
       "geosite:dmm",
       "domain:blxr5es.com",    //用于javdb视频预览
       "domain:fanza.jp",    //dmm跳转
-      "domain:savefrom.net"
+      "domain:savefrom.net"    //youtube视频解析下载，美国节点会阻止
     ]
     },
 {
