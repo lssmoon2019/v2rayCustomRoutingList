@@ -1,7 +1,7 @@
 [
 {
     "remarks": "日本节点分流",
-    "outboundTag": "[精品]日本-东京-B3-05",
+    "outboundTag": "[优选]日本-东京-H2-03",
     "domain": [
       "geosite:dmm",
       "domain:blxr5es.com",    //用于javdb视频预览
