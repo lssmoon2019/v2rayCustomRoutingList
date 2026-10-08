@@ -1,7 +1,7 @@
 [
 {
     "remarks": "日本节点分流",
-    "outboundTag": "[选择节点名称]",
+    "outboundTag": "[手动选择节点名称]",
     "domain": [
       "geosite:dmm",
       "domain:blxr5es.com",    //用于javdb视频预览
