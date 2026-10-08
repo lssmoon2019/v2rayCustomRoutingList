@@ -1,6 +1,6 @@
 [
 {
-    "remarks": "日本节点分流",
+    "remarks": "节点分流-日本JP",
     "outboundTag": "[手动选择节点名称]",
     "domain": [
       "geosite:dmm",
