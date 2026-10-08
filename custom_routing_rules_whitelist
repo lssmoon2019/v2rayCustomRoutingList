@@ -13,7 +13,7 @@
     "remarks": "阻止BLOCK的网站",
     "outboundTag": "block",
     "domain": [
-      "full:czbtybb.mof.gov.cn"    
+      "full:czbtybb.mof.gov.cn"    //test "full"用法
     ]
     },     
 {
