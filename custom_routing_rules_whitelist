@@ -17,10 +17,10 @@
     ]
     },     
 {
-    "remarks": "直连DIRECT的网站",
+    "remarks": "直连DIRECT的网站",    
     "outboundTag": "direct",
     "domain": [
-      "domain:alistgo.com",
+      "domain:alistgo.com",    //Alist
       "domain:lssyey.com",
       "domain:99kami.com",
       "domain:bingdiancn.com",
@@ -32,7 +32,7 @@
     "remarks": "代理PROXY的网站",
     "outboundTag": "proxy",
     "domain": [
-      "domain:sifangclub.com"      
+      "domain:sifangclub.com"          
     ]
     },  
     {
