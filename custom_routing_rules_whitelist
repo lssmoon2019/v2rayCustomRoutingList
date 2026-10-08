@@ -1,11 +1,11 @@
 [
 {
     "remarks": "日本节点分流",
-    "outboundTag": "[优选]日本-东京-H2-03",
+    "outboundTag": "[选择节点名称]",
     "domain": [
       "geosite:dmm",
       "domain:blxr5es.com",    //用于javdb视频预览
-      "domain:fanza.jp",    //dmm跳转
+      "domain:fanza.jp",    //dmm会跳转到这
       "domain:savefrom.net"    //youtube视频解析下载，美国节点会阻止
     ]
     },
@@ -13,7 +13,7 @@
     "remarks": "阻止访问REJECT",
     "outboundTag": "block",
     "domain": [
-      "full:czbtybb.mof.gov.cn" 
+      "full:czbtybb.mof.gov.cn"    //资产月报
     ]
     },     
 {
