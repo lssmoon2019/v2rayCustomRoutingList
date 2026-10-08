@@ -10,14 +10,14 @@
     ]
     },
 {
-    "remarks": "阻止访问REJECT",
+    "remarks": "阻止BLOCK的网站",
     "outboundTag": "block",
     "domain": [
       "full:czbtybb.mof.gov.cn"    //资产月报
     ]
     },     
 {
-    "remarks": "始终直连DIRECT",
+    "remarks": "直连DIRECT的网站",
     "outboundTag": "direct",
     "domain": [
       "domain:alistgo.com",
@@ -29,7 +29,7 @@
     ]
     }, 
     {
-    "remarks": "始终代理PROXY",
+    "remarks": "代理PROXY的网站",
     "outboundTag": "proxy",
     "domain": [
       "domain:sifangclub.com"      
