@@ -7,8 +7,7 @@
       "domain:blxr5es.com", //用于javdb视频预览
       "domain:hnhr01.com",  //用于javdb视频预览                                   
       "domain:fanza.jp",    //dmm会跳转到这
-      "domain:savefrom.net",    //youtube视频解析下载，美国节点会阻止
-      
+      "domain:savefrom.net",    //youtube视频解析下载，美国节点会阻止      
       "domian:example01.com"    //从↑上一行添加，避免缺失“，”
     ]
     },
