@@ -4,8 +4,8 @@
     "outboundTag": "日本IP分流策略组",    //通过添加策略组，自动选择日本节点，避免更新订阅后节点别名变化
     "domain": [
       "geosite:dmm",
-      "domain:blxr5es.com", /*用于javdb视频预览
-      "domain:hnhr01.com",                    */                    
+      "domain:blxr5es.com", //用于javdb视频预览
+      "domain:hnhr01.com",  //用于javdb视频预览                                   
       "domain:fanza.jp",    //dmm会跳转到这
       "domain:savefrom.net",    //youtube视频解析下载，美国节点会阻止
       
